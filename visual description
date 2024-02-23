@@ -12,4 +12,20 @@ Visual 1
   This approach highlights a notable nighttime peak in consumption, offering a clear understanding of daily energy usage patterns.
 
 Visual 2
-    
+  The data frame includes total consumption measured at the meter.
+
+  Two additional columns contain separate measurements for the heat pump and all other appliances.
+
+  Stacked area graphs are useful for visualizing multiple time series data.
+
+  This type of graph can show individual data contributions to combined consumption.
+
+  The example demonstrates a stacked area graph for daily demand.
+
+  Similar graphs for other time frames can be created in a comparable manner.
+
+  Stacked area graphs are beneficial when dealing with data from multiple households.
+
+  They help analyze consumption relative to total demand at a transformer station.
+
+  This visualization aids in understanding individual contributions to overall consumption.
